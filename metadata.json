@@ -1,0 +1,6 @@
+{
+  "name": "Organizador y Disciplina Financiera",
+  "description": "Un sistema personal y estético para organizarte, enfocarte y disciplinarte económicamente, con presupuestos, metas de ahorro y control de hábitos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
